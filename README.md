@@ -81,11 +81,7 @@ Models were evaluated using:
 - Gain insights from banking customer data
 
 ---
-## Notebook Preview
 
-View notebook:
-
-https://nbviewer.org/github/nehirgirgin/bank-marketing-classification-project/blob/main/bank_marketing_project.ipynb
 ## Author
 
 **Nehir Girgin**  
